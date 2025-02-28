@@ -83,7 +83,7 @@ return landSurfaceTemperature
 }
 
 
-// calculate yearly statisticss
+// calculate yearly statistics
 function calculateStats(year, durationInYears, regionAoi) {
   var dictMonthYear = {
     Year: [],
@@ -177,11 +177,6 @@ function calculateStats(year, durationInYears, regionAoi) {
       region:regionAoi
       });
       */
-
-      
-    
-    
-    
 
 
     }
